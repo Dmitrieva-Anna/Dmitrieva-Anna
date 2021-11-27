@@ -1,14 +1,7 @@
 ### Hi there 👋, my name is Anna
 #### I am GitHub Readme
-![I am GitHub Readme](https://hsto.org/webt/sv/fa/xn/svfaxnl2uh7vozipy4n5to6qpqm.png)
+![I am GitHub Readme](https://www.meetrv.com/wp-content/uploads/2021/03/Front-end-Web-Development-Tools.jpg)
 
-I make projects to improve my skills and with each new application  try to delve into the world of the frontend!
+I make projects to improve my skills and with each new application try to delve into the world of the frontend!
 
-Skills: VUE JS / JS / HTML / CSS / GIT / WEBPACK
-
-- 🔭 I’m currently working on this page. 
-
-
-
-
-
+Skills: JS / HTML / CSS / GIT / Twig
